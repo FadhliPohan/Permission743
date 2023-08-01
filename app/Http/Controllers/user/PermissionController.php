@@ -6,7 +6,6 @@ use Illuminate\Http\Request;
 use Illuminate\Support\Facades\DB;
 use Spatie\Permission\Models\Permission;
 
-use Yajra\DataTables\DataTables;
 
 class PermissionController extends Controller
 {
